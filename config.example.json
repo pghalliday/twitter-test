@@ -1,0 +1,12 @@
+{
+  "consumer_key": "TWITTER_APP_CONSUMER_KEY",
+  "consumer_secret": "TWITTER_APP_CONSUMER_SECRET",
+  "access_token": "TWITTER_APP_ACCESS_TOKEN",
+  "access_token_secret": "TWITTER_APP_ACCESS_TOKEN_SECRET",
+  "filter": {
+    "follow": ["12345", "345667"],
+    "track": ["hello", "boo"],
+    "locations": [3.39,50.87,6.39,53.87]
+  },
+  "output_directory": "output"
+}
